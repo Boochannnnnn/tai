@@ -47,7 +47,7 @@ Tab:CreateButton({
 Tab:CreateButton({
     Name = "⚡ Buy Shockolatte",
     Callback = function() 
-        snipeProduct("dp_unit_Choco_tesla") 
+        snipeProduct("dp_unit_choco_tesla") 
     end,
 })
 
@@ -55,7 +55,7 @@ Tab:CreateButton({
 Tab:CreateButton({
     Name = "⚡ Buy Teslaflora",
     Callback = function() 
-        snipeProduct("dp_unit_tesla_plant") 
+        snipeProduct("dp_unit_tesla_tree") 
     end,
 })
 
@@ -63,6 +63,6 @@ Tab:CreateButton({
 Tab:CreateButton({
     Name = "⚡ Buy SnowMan",
     Callback = function() 
-        snipeProduct("dp_unit_snowman") 
+        snipeProduct("dp_unit_snow_man") 
     end,
 })
