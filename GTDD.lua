@@ -47,7 +47,7 @@ Tab:CreateButton({
 Tab:CreateButton({
     Name = "⚡ Buy Shockolatte",
     Callback = function() 
-        snipeProduct("dp_unit_tesla") 
+        snipeProduct("dp_unit_Choco_tesla") 
     end,
 })
 
